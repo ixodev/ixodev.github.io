@@ -1,3 +1,17 @@
 body {
     background-color: black;
 }
+
+a {
+    font-family: Verdana;
+}
+
+@font-face {
+    font-family: pixelfont;
+    src: url(resources/font.ttf);
+}
+
+a {
+    font-family: pixelfont;
+    color: green;
+}
