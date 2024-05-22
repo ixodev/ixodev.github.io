@@ -8,6 +8,14 @@ body {
 }
 
 a {
+    background-color: green;
+    border: 0.2px solid #8f8f9d;
+    border-radius: 5px;
+    padding: 3px;
+    color: black;
     font-family: pixelfont;
-    color: green;
-}
+    font-size: medium;
+    text-align: center;
+    text-decoration: none;
+    cursor: default;
+  }
