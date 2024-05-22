@@ -2,10 +2,6 @@ body {
     background-color: black;
 }
 
-a {
-    font-family: Verdana;
-}
-
 @font-face {
     font-family: pixelfont;
     src: url(font.ttf);
