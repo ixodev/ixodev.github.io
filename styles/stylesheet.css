@@ -8,7 +8,7 @@ a {
 
 @font-face {
     font-family: pixelfont;
-    src: url(../resources/font.ttf);
+    src: url(font.ttf);
 }
 
 a {
