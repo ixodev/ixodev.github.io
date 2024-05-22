@@ -8,8 +8,8 @@ body {
 }
 
 a {
-    background-color: green;
-    border: 0.2px solid #8f8f9d;
+    background-color: white;
+    border: 0.2px solid green;
     border-radius: 5px;
     padding: 3px;
     color: black;
@@ -21,6 +21,6 @@ a {
 }
 
 p {
-    color: green;
+    color: white;
     font-family: techFont;
 }
