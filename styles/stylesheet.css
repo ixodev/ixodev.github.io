@@ -14,8 +14,13 @@ a {
     padding: 3px;
     color: black;
     font-family: pixelfont;
-    font-size: medium;
+    font-size: x-large;
     text-align: center;
     text-decoration: none;
     cursor: default;
-  }
+}
+
+p {
+    color: green;
+    font-family: pixelfont;
+}
