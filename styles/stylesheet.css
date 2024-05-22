@@ -3,8 +3,8 @@ body {
 }
 
 @font-face {
-    font-family: pixelfont;
-    src: url(font.ttf);
+    font-family: techFont;
+    src: url(font.otf);
 }
 
 a {
@@ -13,7 +13,7 @@ a {
     border-radius: 5px;
     padding: 3px;
     color: black;
-    font-family: pixelfont;
+    font-family: techFont;
     font-size: x-large;
     text-align: center;
     text-decoration: none;
@@ -22,5 +22,5 @@ a {
 
 p {
     color: green;
-    font-family: pixelfont;
+    font-family: techFont;
 }
