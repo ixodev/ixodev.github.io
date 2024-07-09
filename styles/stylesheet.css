@@ -2,18 +2,12 @@ body {
     background-color: black;
 }
 
-@font-face {
-    font-family: techFont;
-    src: url(font.otf);
-}
-
 a {
     background-color: white;
     border: 0.2px solid green;
     border-radius: 5px;
     padding: 3px;
     color: black;
-    font-family: techFont;
     font-size: x-large;
     text-align: center;
     text-decoration: none;
@@ -22,5 +16,4 @@ a {
 
 p {
     color: white;
-    font-family: techFont;
 }
